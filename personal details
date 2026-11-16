@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Details</title>
+</head>
+<body>
+
+    <h1>My Personal Details</h1>
+
+    <p><b>Name:</b> Saurav Pure</p>
+    <p><b>College:</b> Amrutvahini College of Engineering</p>
+    <p><b>Department:</b> Computer Engineering</p>
+    <p><b>Year:</b> Third Year</p>
+    <p><b>City:</b> Sangamner</p>
+
+    <h2>About Me</h2>
+    <p>I am a <b>Computer Engineering</b> student.</p>
+    <p>I am interested in <i>Programming</i> and <u>Web Development</u>.</p>
+
+    <p><strong>Thank You!</strong></p>
+
+</body>
+</html>
